@@ -41,7 +41,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/GNOME/libpanel.git",
-                    "tag" : "1.8.0"
+                    "tag" : "1.10.3",
+                    "commit" : "6620f306917016ef4a534a126bfcdf97ef324e79"
                 }
             ]
         },
